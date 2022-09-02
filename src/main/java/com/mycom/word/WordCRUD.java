@@ -3,6 +3,7 @@ package com.mycom.word;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// ICRUD 인터페이스를 구현한 class입니다.
 public class WordCRUD implements ICRUD{
     ArrayList<Word> list;
     Scanner s;

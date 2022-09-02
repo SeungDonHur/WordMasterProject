@@ -2,6 +2,8 @@ package com.mycom.word;
 
 import java.util.Scanner;
 
+// WordCRUD를 사용한 실제 관리 클래스입니다.
+
 public class WordManager {
     Scanner s = new Scanner(System.in);
     WordCRUD wordCRUD;

@@ -1,5 +1,5 @@
 package com.mycom.word;
-
+// ID, 단어 난이도, 영문, 해석이 포함된 데이터 클래스입니다.
 public class Word {
     private int id;
     private int level;
