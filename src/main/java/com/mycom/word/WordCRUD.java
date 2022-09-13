@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class WordCRUD implements ICRUD{
     ArrayList<Word> list;
     Scanner s;
-    final String fname = "Dictionary.txt";
+    final String fname = "./target/Dictionary.txt";
     /*
      * => 난이도(1,2,3) & 새 단어 입력 :1 driveway
      * 뜻 입력 :차고 진입로
